@@ -7,7 +7,7 @@
 |----------------------------   |------------------|
 | [furkanerdogan.github.io/cv] | [latest release] |
 
-[![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
+[![Build Status](https://app.travis-ci.com/furkanerdogan/cv.svg?branch=gh-pages)](https://app.travis-ci.com/furkanerdogan/cv)
 
 **If you want to have your own, just fork this repo and modify the `index.md`.**
 
