@@ -1,10 +1,11 @@
 ---
 layout: cv
-title: Berat Bozkurt's CV
+title: Furkan Erdoğan's CV
 ---
 
-# Berat Bozkurt
-Frontend Developer 
+# Furkan Erdoğan
+computer engineer 
+Hello, I am a 23 year old mostly self-taught computer engineer. After graduating in December of 2021, I started working as a software developer. While developing applications, I write code cleanly and with the awareness of software principles
 
 | __E-Mail__   | [me@beratbozkurt.net](mailto:me@beratbozkurt.net)              | 
 | __Website__  | [beratbozkurt.net](https://beratbozkurt.net)                         |
